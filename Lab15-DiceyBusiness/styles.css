@@ -1,0 +1,11 @@
+
+.dice {
+    width: 2em;
+    height: 2em;
+    border: 1px solid black;
+    font-size: 2em;
+    display: inline-block;
+    margin: 1em 2em;
+    line-height: 2em;
+    text-align: center;
+}
